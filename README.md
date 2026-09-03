@@ -54,3 +54,11 @@ When looking at all customers combined, "noticing CFP labels" and "motivation to
 ### 4. Preferred Redemption
 Survey results show that the vast majority of customers want to redeem their Eco-Points for **"Shopping Discounts / Cash Coupons" (43 votes)**, easily beating out redeeming for special eco-products (15 votes) and donating points to environmental projects (10 votes).
 **Conclusion:** The campaign must focus on distributing shopping discounts or cash coupons as the primary reward. Tangible, usable benefits are the most effective way to motivate the highest number of customers to participate.
+
+### 5. Target Demographic (Age Group Analysis)
+When analyzing which age group is most interested in the campaign, the average motivation score (out of 3) was highly consistent across the board:
+- **36-55 years old:** 2.33/3
+- **Under 20 years old:** 2.21/3
+- **20-35 years old:** 2.17/3
+
+**Conclusion:** The campaign appeals almost equally across all generations, which is a great sign. However, because the vast majority of our survey respondents (67%) fall into the **20-35 age group**, Millennials and older Gen Z should be considered the primary target audience in terms of volume. In the meantime, knowing that older demographics are also highly receptive gives confidence for broader campaign expansion.
